@@ -26,7 +26,7 @@ Framework  : [Keras API by Tensorflow v2.x](https://www.tensorflow.org/api_docs/
 ### main.ipnyb
 **This notebook includes the required preprocessing, loading, modelling and testing part of the application.**
 
-![Loss/Epoch](link)
+![Loss/Epoch](https://github.com/MaitreyPrajapati/pneumonia_prediction/blob/master/Graph/75epoch.jpeg)
 
 | Epoch       | Train Accuracy           | Test Accuracy  | Train Loss |
 | ------------- |:-------------:| -----:| -----------:|
