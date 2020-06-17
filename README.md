@@ -33,3 +33,7 @@ Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 | 75     | 0.9590 | 0.9599 | 0.1050 |
 | 50      | 0.9298      |   0.9323| 0.1689 |
 | 25 | 0.8825      |    0.8982 | 0.2691 |
+
+
+### Epoch to loss/accuracy graph for 50 epochs
+![Loss/Accuracy/50Epoch](https://github.com/MaitreyPrajapati/pneumonia_detection/blob/master/Graph/50epoch.jpeg)
