@@ -25,7 +25,10 @@ Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 
 ### main.ipnyb
 **This notebook includes the required preprocessing, loading, modelling and testing part of the application.**
+### Epoch to loss/accuracy graph for 50 epochs
+![Loss/Accuracy/50Epoch](https://github.com/MaitreyPrajapati/pneumonia_detection/blob/master/Graph/50epoch.jpeg)
 
+### Epoch to loss graph for 75 epochs
 ![Loss/Epoch](https://github.com/MaitreyPrajapati/pneumonia_prediction/blob/master/Graph/75epoch.jpeg)
 
 | Epoch       | Train Accuracy           | Test Accuracy  | Train Loss |
@@ -35,5 +38,4 @@ Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 | 25 | 0.8825      |    0.8982 | 0.2691 |
 
 
-### Epoch to loss/accuracy graph for 50 epochs
-![Loss/Accuracy/50Epoch](https://github.com/MaitreyPrajapati/pneumonia_detection/blob/master/Graph/50epoch.jpeg)
+
