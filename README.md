@@ -31,5 +31,5 @@ Framework  : [Keras API by Tensorflow v2.x](https://www.tensorflow.org/api_docs/
 | Epoch       | Train Accuracy           | Test Accuracy  | Train Loss |
 | ------------- |:-------------:| -----:| -----------:|
 | 75     | 0.9590 | 0.9599 | 0.1050 |
-| 50      | 0.95x      |   Something| Something |
+| 50      | 0.9298      |   0.9323| 0.1689 |
 | 25 | 0.75      |    Something | Something |
