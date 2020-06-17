@@ -23,13 +23,18 @@ Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 **Cost Function** : Binary Cross entropy<br/>
 **Optimization** : Adam's Optimization<br/>
 
-### main.ipnyb
-**This notebook includes the required preprocessing, loading, modelling and testing part of the application.**
-
-![Loss/Epoch](https://github.com/MaitreyPrajapati/pneumonia_prediction/blob/master/Graph/75epoch.jpeg)
-
 | Epoch       | Train Accuracy           | Test Accuracy  | Train Loss |
 | ------------- |:-------------:| -----:| -----------:|
 | 75     | 0.9590 | 0.9599 | 0.1050 |
 | 50      | 0.9298      |   0.9323| 0.1689 |
 | 25 | 0.8825      |    0.8982 | 0.2691 |
+
+### Epoch to loss/accuracy graph for 50 epochs
+![Loss/Accuracy/50Epoch](https://github.com/MaitreyPrajapati/pneumonia_detection/blob/master/Graph/50epoch.jpeg)
+
+### Epoch to loss graph for 75 epochs
+![Loss/Epoch](https://github.com/MaitreyPrajapati/pneumonia_prediction/blob/master/Graph/75epoch.jpeg)
+
+
+
+
