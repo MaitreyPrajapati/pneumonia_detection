@@ -1,7 +1,7 @@
 ## Computer vision app to predict Pneumonia from chest X-ray using deep neural network
 
 Dataset    : [Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)<br/>
-Framework  : [Keras API by Tensorflow v2.x](https://www.tensorflow.org/api_docs/python/tf/keras)<br/>
+Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 #Training  : 5216<br/>
 #Testing   : 624<br/>
 
@@ -32,4 +32,4 @@ Framework  : [Keras API by Tensorflow v2.x](https://www.tensorflow.org/api_docs/
 | ------------- |:-------------:| -----:| -----------:|
 | 75     | 0.9590 | 0.9599 | 0.1050 |
 | 50      | 0.9298      |   0.9323| 0.1689 |
-| 25 | 0.75      |    Something | Something |
+| 25 | 0.8825      |    0.8982 | 0.2691 |
