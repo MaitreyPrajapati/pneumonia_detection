@@ -33,7 +33,7 @@ Framework  : [Tensorflow v2.x](https://www.tensorflow.org/)<br/>
 ### Epoch to loss/accuracy graph for 100 epochs
 ![Loss/Accuracy/100Epoch](https://github.com/MaitreyPrajapati/pneumonia_detection/blob/master/Graph/100Epoch.png)
 
-### Epoch to loss graph for 75 epochs
+### Epoch to accuracy graph for 75 epochs
 ![Loss/Epoch](https://github.com/MaitreyPrajapati/pneumonia_prediction/blob/master/Graph/75epoch.jpeg)
 
 
